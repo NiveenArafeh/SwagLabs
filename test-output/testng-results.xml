@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-19T18:33:56 EET" name="Default suite" finished-at="2022-11-19T18:34:05 EET" duration-ms="8151">
+    <groups>
+    </groups>
+    <test started-at="2022-11-19T18:33:56 EET" name="Default test" finished-at="2022-11-19T18:34:05 EET" duration-ms="8151">
+      <class name="addItem.SwagLabTestCases">
+        <test-method is-config="true" signature="LoginWebsite()[pri:0, instance:addItem.SwagLabTestCases@158da8e]" started-at="2022-11-19T18:33:56 EET" name="LoginWebsite" finished-at="2022-11-19T18:34:04 EET" duration-ms="7158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginWebsite -->
+        <test-method signature="sortPriceOfItemsFromHighToLow()[pri:1, instance:addItem.SwagLabTestCases@158da8e]" started-at="2022-11-19T18:34:04 EET" name="sortPriceOfItemsFromHighToLow" finished-at="2022-11-19T18:34:04 EET" duration-ms="319" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortPriceOfItemsFromHighToLow -->
+        <test-method signature="sortPriceOfItemsFromLowToHigh()[pri:2, instance:addItem.SwagLabTestCases@158da8e]" started-at="2022-11-19T18:34:04 EET" name="sortPriceOfItemsFromLowToHigh" finished-at="2022-11-19T18:34:04 EET" duration-ms="218" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sortPriceOfItemsFromLowToHigh -->
+        <test-method signature="addAllItemsToList()[pri:3, instance:addItem.SwagLabTestCases@158da8e]" started-at="2022-11-19T18:34:04 EET" name="addAllItemsToList" finished-at="2022-11-19T18:34:05 EET" duration-ms="405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAllItemsToList -->
+      </class> <!-- addItem.SwagLabTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
